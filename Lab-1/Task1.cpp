@@ -37,6 +37,6 @@ int main ()
             sum++;
     }
 
-    cout << "unique word-->>" << sum+1 <<endl;
+    cout << "unique word-->>" << sum <<endl;
 
 }
