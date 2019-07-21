@@ -1,5 +1,5 @@
 
-//Hashing Linear Probing
+//Hashing Linear Probing.
 
 #include<bits/stdc++.h>
 using namespace std;
