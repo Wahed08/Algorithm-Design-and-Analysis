@@ -1,5 +1,5 @@
 
-//Hashing Quadratic Probing
+//Hashing Quadratic Probing.
 
 #include<bits/stdc++.h>
 using namespace std;
